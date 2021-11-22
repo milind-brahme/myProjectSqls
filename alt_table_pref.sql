@@ -1,4 +1,4 @@
-alter table bms_preferences read only;
+alter table bms_preference read only;
 
 -- Alter table
 
