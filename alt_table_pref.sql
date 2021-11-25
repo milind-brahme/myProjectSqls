@@ -1,4 +1,10 @@
-alter table bms_preference read only;
+select * from v$instance;
+
+alter table bms_preferences read only;
+
+
+
+
 
 -- Alter table
 
