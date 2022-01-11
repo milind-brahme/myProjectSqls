@@ -31,7 +31,7 @@ To debug in IntelliJ Idea, open the 'Maven Projects' tool window (View
 version = "2021.2"
 
 project {
-    description = "First project"
+    description = "First project ; Kotlin moved to Github"
 
     vcsRoot(HttpsGithubComMilindBrahmeQueryLightGitRefsHeadsMaster)
 
